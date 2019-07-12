@@ -13,8 +13,6 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.mabeijianxi.smallvideorecord2.MediaRecorderActivity;
-
 
 /**
  * Created by jian on 2016/7/21 15:52

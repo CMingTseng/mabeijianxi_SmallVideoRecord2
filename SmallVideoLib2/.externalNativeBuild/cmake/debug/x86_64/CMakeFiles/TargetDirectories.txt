@@ -1,3 +1,0 @@
-H:/SSS/SmallVideoLib2/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/jx_ffmpeg_jni.dir
-H:/SSS/SmallVideoLib2/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
-H:/SSS/SmallVideoLib2/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

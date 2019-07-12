@@ -1,1 +1,6 @@
-include ':SmallVideoLib2', ':sample'
+include ':ffmpeg_bridge'
+include ':ffmpeg_utils'
+include ':ui'
+include   ':sample'
+
+
