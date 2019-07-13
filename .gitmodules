@@ -1,3 +1,6 @@
 [submodule "FFmpeg_Bridge"]
 	path = FFmpeg_Bridge
 	url = https://gitlab.com/CMingTseng/mabeijianxi_ffmpeg_bridge.git
+[submodule "FFmpeg_Utils"]
+	path = FFmpeg_Utils
+	url = https://gitlab.com/CMingTseng/mabeijianxi_ffmpeg_utils.git
