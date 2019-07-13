@@ -4,3 +4,6 @@
 [submodule "FFmpeg_Utils"]
 	path = FFmpeg_Utils
 	url = https://gitlab.com/CMingTseng/mabeijianxi_ffmpeg_utils.git
+[submodule "Widget"]
+	path = Widget
+	url = https://gitlab.com/CMingTseng/mabeijianxi_ffmpeg_widget.git
