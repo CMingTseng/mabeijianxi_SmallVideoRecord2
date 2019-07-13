@@ -1,6 +1,6 @@
 include ':ffmpeg_bridge'
 include ':ffmpeg_utils'
-include ':ui'
+include ':widget'
 include   ':sample'
 
 

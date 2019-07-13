@@ -28,5 +28,5 @@ dependencies {
 //  implementation 'com.mabeijianxi:small-video-record2:2.0.0beta@aar'
     implementation project(path: ':ffmpeg_bridge')
     implementation project(path: ':ffmpeg_utils')
-    implementation project(path: ':ui')
+    implementation project(path: ':widget')
 }
