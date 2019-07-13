@@ -1,6 +1,9 @@
 include ':ffmpeg_bridge'
+project(":ffmpeg_bridge").projectDir = file("./FFmpeg_Bridge/ffmpeg_bridge")
 include ':ffmpeg_utils'
+project(":ffmpeg_utils").projectDir = file("./FFmpeg_Utils/ffmpeg_utils")
 include ':widget'
-include   ':sample'
+project(":widget").projectDir = file("./Widget/widget")
+include ':sample'
 
 
